@@ -9,7 +9,6 @@ import com.SAUCEDEMO.PROJ.COMMONTASK;
 public class LOGIN extends COMMONTASK{
 	public LOGIN() throws IOException {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 
 	public boolean doLogin(String id, String password) throws InterruptedException {
